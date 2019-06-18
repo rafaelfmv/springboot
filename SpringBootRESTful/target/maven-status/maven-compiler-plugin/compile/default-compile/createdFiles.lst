@@ -1,0 +1,5 @@
+com\desafio\service\FuncionarioService.class
+com\desafio\DesafioApplication.class
+com\desafio\model\Funcionario.class
+com\desafio\repository\FuncionarioRepository.class
+com\desafio\controller\FuncionarioController.class
